@@ -1,0 +1,64 @@
+
+h1{
+    color: rgba(255, 0, 0, 0.867);
+    border : 1px solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity:5;
+}
+
+.header{
+    background-color: #e7f342;
+    display : flex;
+    justify-content: center;
+    
+}
+.para{
+    padding-bottom: 11px;
+    padding-top: 11px;
+    background-color: #51ff00;
+    text-align: center;
+}
+.car{
+    background-color: #003cff;
+    display:flex;
+    justify-content: center;
+    opacity:0.8;
+}
+.trex{
+    background-color: #ff7b00;
+    display:flex;
+    justify-content: center;
+    opacity:0.8;
+}
+.bird{
+    background-color: #00ffdd;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+opacity: 0.8;
+}
+.ping{
+    background-color: #e5ff00;
+    display: flex;
+    justify-content: center;
+    opacity: 0.9;
+}
+.social{
+    background-color:#ff0000;
+    display: flex;
+    justify-content:center;
+    opacity: 0.7;
+}
+body{
+    background-color: #ffffff;
+}
+a:visited{
+color:rgb(0, 183, 255);
+}
+a:link{
+color: rgb(0, 0, 0);
+}
